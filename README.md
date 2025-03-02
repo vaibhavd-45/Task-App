@@ -54,7 +54,7 @@ HTML: Structuring the application.
 CSS (Global.css): Styling and layout.
 JavaScript: Adding interactivity and functionality.
 Problem It Solves
-This project offers tools to streamline productivity and organization, addressing common challenges faced by professionals and teams in managing tasks, schedules, and analytics.
+This project offers tools to streamline productivity and organization, addressing common challenges professionals and teams face in managing tasks, schedules, and analytics.
 
 Future Scope
 Backend Integration: Include backend functionality for user authentication and data persistence.
