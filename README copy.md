@@ -99,16 +99,6 @@ cd Byte-Builders_004
 This project offers tools to streamline productivity and organization, addressing common challenges faced by professionals and teams in managing tasks, schedules, and analytics.
 
 ---
-
-## Team Credits
-
-- **Team Lead**: Shiv Nandan
-- **Team Members**: 
-  - Piyush Hardasani
-  - Akash Pal
-  - Pritam Mondal
-  - Sidit Shrivastava
-
 ---
 
 ## What We Learned
