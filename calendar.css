@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&display=swap");
+
+.max-w-md {
+  max-width: 80rem !important;
+}
+
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(92 127 135) !important;
+}
